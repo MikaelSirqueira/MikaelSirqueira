@@ -4,6 +4,7 @@
 
 - 🎓 Atualmente estou cursando Ciência da Computação na PUCPR.
 - 💻 Possuo experiência em Desenvolvimento Web Full Stack onde utilizei JavaScript, VB.Net, Asp.Net, SQL Server.
+- 🤖 Atualmente estudando JavaScript, React, Node, .Net / C#. 
 
 <div style="display: inline_block"><br>
 
