@@ -4,7 +4,7 @@
 
 - 🎓 Atualmente estou cursando Ciência da Computação na PUCPR.
 - 💻 Possuo experiência em Desenvolvimento Web Full Stack onde utilizei JavaScript, VB.Net, Asp.Net, SQL Server.
-- 🤖 Atualmente estudando JavaScript, React, Node, .Net / C#. 
+- 🤖 Atualmente estudando JavaScript, TypeScript, React, Node, .Net / C#.
 
 <div style="display: inline_block"><br>
 
@@ -28,3 +28,8 @@
 <div>
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelSirqueira&layout=compact&langs__count=16&theme=dracula">
 </div>
+
+<br>
+
+## Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MikaelSirqueira/)
