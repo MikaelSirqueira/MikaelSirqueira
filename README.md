@@ -2,9 +2,9 @@
 
 ## Sobre mim
 
-- 🎓 Atualmente estou cursando Ciência da Computação na PUCPR.
+- 🎓 Formado em Ciência da Computação pela PUCPR.
 - 💻 Possuo experiência em Desenvolvimento Web Full Stack onde utilizei JavaScript, VB.Net, Asp.Net, SQL Server.
-- 🤖 Atualmente estudando JavaScript, TypeScript, React, Node, .Net / C#.
+- 🤖 Atualmente estudando TypeScript, React, Node, .Net / C#.
 
 <div style="display: inline_block"><br>
 
